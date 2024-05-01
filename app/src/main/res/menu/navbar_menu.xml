@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_bar_edit"
+        android:title="edit profile"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/bookmark"
+        android:title="bookmark"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/privacy"
+        android:title="privacy policy"
+        app:showAsAction="never"/>
+    <item
+    android:id="@+id/logout"
+    android:title="logout"
+    app:showAsAction="never"/>
+
+</menu>
