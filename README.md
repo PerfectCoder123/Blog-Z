@@ -28,22 +28,22 @@ The backend of Blog-z is powered by Firebase services, leveraging the following 
 
 # Screenshot
 
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230922_200634_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230922_200649_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230922_200743_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230922_200808_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230922_200838_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_015512_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_015530_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_015550_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_015608_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_015733_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_015839_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_015843_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_020503_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_020515_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_020530_com.example.autoslider.jpg)
-![Blog-z Screenshots](/app/screenshot/Screenshot_20230925_021534_com.example.autoslider.jpg)
+<img src="/app/screenshot/Screenshot_20230922_200634_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230922_200649_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230922_200743_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230922_200808_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230922_200838_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_015512_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_015530_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_015550_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_015608_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_015733_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_015839_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_015843_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_020503_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_020515_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_020530_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
+<img src="/app/screenshot/Screenshot_20230925_021534_com.example.autoslider.jpg" alt="Blog-z Screenshots" width="400" height="300">
 
 ## License
 
